@@ -1,0 +1,67 @@
+
+{
+	box-sizing: border-box;
+}
+
+body 
+{
+	background-image:url("BG5.jpg");
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+	margin: -20px 0 50px;
+}
+.login
+{  
+        Width: 270px;  
+        Overflow: hidden;  
+        Margin: auto;  
+        Margin: 20 0 0 450px;  
+        Padding: 60px;  
+        Background: Lightblue;  
+        Border-radius: 20px ;  
+          
+}  
+
+h2
+{
+	text-align: center;
+	color: #fff;
+	padding:bottom;
+}
+
+.loginbox input[type="text"], input[type="username"];
+{
+     border: 2px solid #fff;
+	 border-bottom: 1px solid #fff;
+	 background: none;
+	 outline:none;
+	 height: 40px;
+	 color: #fff;
+	 font-size: 16px;
+}
+	
+.loginbox input[type="text"], input[type="password"];
+{
+	 border: 2px solid #fff;
+	 border-bottom: 1px solid #fff;
+	 background:none;
+	 outline: none;
+	 height: 40px;
+	 color: #fff;
+	 font-size:16px;
+}
+.loginbox input[type="submit"] :hover
+{
+	 cursor: pointer;
+	 background: #ffc107;
+	 color: #000;
+}
+body
+
+
+
+
